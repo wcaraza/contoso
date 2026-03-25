@@ -1,0 +1,23 @@
+metadata = [
+    {
+        "name": "departments",
+        "type": "file",
+        "format": "csv",
+        "path": "/Workspace/Users/waltercaraza@gmail.com/contoso/data/departments.csv",
+        "load_type": "full"
+    },
+    {
+        "name": "hired_employees",
+        "type": "file",
+        "format": "csv",
+        "path": "/Workspace/Users/waltercaraza@gmail.com/contoso/data/hired_employees.csv",
+        "load_type": "full"
+    },
+    {
+        "name": "jobs",
+        "type": "file",
+        "format": "csv",
+        "path": "/Workspace/Users/waltercaraza@gmail.com/contoso/data/jobs.csv",
+        "load_type": "full"
+    }
+]
